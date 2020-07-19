@@ -1,7 +1,15 @@
 # Microfluidics
 
+batch_stabilize_macro.ijm
+ImageJ macro to batch process the use of the HyperStackReg plugin (https://github.com/ved-sharma/HyperStackReg)
 
+batch_split_channel.ijm
+ImageJ macro to batch process the splitting of each image by channel
 
+autocrop_ALL.m
+Matlab script to crop the largest non-blank rectangular area from stabilized images
+
+watershed_batch_triangleO1.m
 
 
 dependencies:
