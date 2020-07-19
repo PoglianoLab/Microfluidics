@@ -6,7 +6,7 @@ ImageJ macro to batch process the use of the HyperStackReg plugin (https://githu
 batch_split_channel.ijm
 ImageJ macro to batch process the splitting of each image by channel
 
-autocrop_ALL.m
+<b>autocrop_ALL.m</b>
 Matlab script to crop the largest non-blank rectangular area from stabilized images
 
 watershed_batch_triangleO1.m
